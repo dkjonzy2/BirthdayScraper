@@ -19,7 +19,7 @@ class GPTError(Exception):
 
 PROMPT = """Today is {date}. {first_name} {last_name} is turning a year older. 
 Wish them a happy birthday! Keep your response short and sweet. Don't include their 
-age in the message in case they are sensitive about it. You post a birthday message 
+age in the message in case they are sensitive about it. You post a birthday message every 
 few days so make each message unique. Do things like include emojis, 
 write a short poem, or make a joke."""
 
@@ -54,6 +54,9 @@ def check_for_birthdays(date=None):
     utah = pytz.timezone('America/Denver')
     date = date or datetime.now(utah).date()
     todays_birthdays = data[(data['Date'].dt.month == date.month) & (data['Date'].dt.day == date.day)]
+    if todays_birthdays.empty:
+        logging.info(f"No birthdays on {date}")
+        return
     
     slack_token = os.environ['SLACK_BOT_TOKEN']
     client = WebClient(token=slack_token)
@@ -66,6 +69,17 @@ def check_for_birthdays(date=None):
             message = f"Happy Birthday to {row['First Name']} {row['Last Name']}! 🎂"
             logging.error("Error in getting GPT message, using default message")
         send_slack_message(client, channel, message)
+        logging.info(f"Sent message to {row['First Name']} {row['Last Name']}")
+        
+def lambda_handler(event, context):
+    test = event.get('test', None)
+    if test:
+        for i in range(1, 8):
+            check_for_birthdays(datetime.now() + timedelta(days=i))
+    else:
+        check_for_birthdays()
 
 if __name__ == "__main__":
     check_for_birthdays()
+    
+    

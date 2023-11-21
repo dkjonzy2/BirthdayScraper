@@ -5,6 +5,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.select import Select
 import time
+import os
 from selenium.webdriver.support import expected_conditions as EC
 import pandas as pd
 
@@ -15,11 +16,11 @@ driver = webdriver.Chrome()
 wait = WebDriverWait(driver, 30)
 driver.get("https://lcr.churchofjesuschrist.org/report/birthday-list?lang=eng")
 
-wait.until(EC.element_to_be_clickable((By.NAME, "username"))).send_keys(ACCOUNT)
+wait.until(EC.element_to_be_clickable((By.NAME, "username"))).send_keys(os.environ['LCR_ACCOUNT'])
 time.sleep(1)
 wait.until(EC.element_to_be_clickable((By.ID, "okta-signin-submit"))).click()
 time.sleep(1)
-wait.until(EC.element_to_be_clickable((By.NAME, "password"))).send_keys(PASSWORD)
+wait.until(EC.element_to_be_clickable((By.NAME, "password"))).send_keys(os.environ['LCR_PASSWORD'])
 time.sleep(1)
 wait.until(EC.element_to_be_clickable((By.XPATH, "//input[@value='Verify']"))).click()
 print("Logged in")
