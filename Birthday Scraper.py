@@ -9,9 +9,6 @@ from selenium.webdriver.support import expected_conditions as EC
 import pandas as pd
 
 path_to_chromedriver = '/Users/danjones/Downloads/chrome-mac-arm64' # change path as needed
-ACCOUNT = "dan.jones"
-PASSWORD = "1p2o3i1p2o3I"
-
 
 driver = webdriver.Chrome()
 

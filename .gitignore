@@ -1,2 +1,4 @@
 .env
 /venv
+birthdays.csv
+/lambda_layer
