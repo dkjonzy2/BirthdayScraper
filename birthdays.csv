@@ -1,38 +1,4 @@
 Date,Name,Age,Phone,Address
-1 Nov,"Allen, Tyler Durand",22,(812) 390-6530,"240 N 500 E
-Apt 21
-Provo, Utah 84606-3042"
-1 Nov,"Heywood, Benjamin",26,(210) 251-7330,"415 N 600 E
-Provo, Utah 84606-3320"
-2 Nov,"Turin Ruiz, Moises Vincenzo",27,3853924394,"274 N 500 E
-Apt 9
-Provo, Utah 84606-3044"
-3 Nov,"Quindo, Michelle",23,870-329-7453,"673 E 350 N
-Provo, Utah 84606-3362"
-4 Nov,"Perrault, Seth",24,559-312-4380,"310 N 600 E
-Provo, Utah 84606-3319"
-9 Nov,"Wood, Treygun",22,8012004109,"274 N 500 E
-Apt 7
-Provo, Utah 84606-3044"
-10 Nov,"Iverson, Porter",22,,"240 N 500 E
-Apt 15
-Provo, Utah 84606-3041"
-12 Nov,"Mackay, Parker",24,720-468-7275,"310 N 600 E
-Provo, Utah 84606-3319"
-15 Nov,"Hendrickson, Maddie",22,430-280-5310,"673 E 350 N
-Provo, Utah 84606-3362"
-15 Nov,"Ruano, Markela",23,385-482-4193,"141 N 600 E
-Provo, Utah 84606-3375"
-20 Nov,"Chuter, Emma",21,435-414-3241,"673 E 350 N
-Provo, Utah 84606-3362"
-22 Nov,"Carlyle, Caleb",21,253-651-8581,"240 N 500 E
-Apt 21
-Provo, Utah 84606-3042"
-23 Nov,"Myers, Jordan",24,(208) 509-6632,"240 N 500 E
-Apt 17
-Provo, Utah 84606-3041"
-26 Nov,"Owen, Redd",22,801-550-7854,"293 N 600 E
-Provo, Utah 84606-3350"
 3 Dec,"Tiyari, Mark",23,208-616-0303,"290 N 600 E
 Provo, Utah 84606-3372"
 8 Dec,"Clark, Carson",21,,"274 N 500 E
@@ -96,8 +62,6 @@ Provo, Utah 84606-3362"
 12 Feb,"Adams, Braden",20,(970) 397-9037,"240 N 500 E
 Apt 22
 Provo, Utah 84606-3042"
-12 Feb,"Alder, Connor",24,8015775461,"674 E 300 N
-Provo, Utah 84606-3306"
 14 Feb,"Gomez, Arturo",28,+1 702-931-8077,"455 E 400 N
 Provo, Utah 84606-3054"
 16 Feb,"Plowman, Noah Jack",24,801-599-0233,"674 E 300 N
@@ -123,8 +87,6 @@ Provo, Utah 84606-3306"
 Provo, Utah 84606-3375"
 6 Mar,"Ward, Adelyne",21,3852217089,"628 E 420 N
 Provo, Utah 84606-3312"
-7 Mar,"Evans, Jake",23,(209) 454-9615,"292 N 500 E
-Provo, Utah 84606-3022"
 7 Mar,"Hiatt, Paige Mckenzie",21,,"547 E 200 N
 Provo, Utah 84606-3247"
 9 Mar,"Watkin, Cade Taylor",21,602-989-9336,"240 N 500 E
@@ -181,8 +143,8 @@ Provo, Utah 84606-3362"
 Apt 19
 Provo, Utah 84606-3042"
 7 May,"Hamilton, Zipporah",21,(412) 291-0312,"240 N 500 E
-Apt 14
-Provo, Utah 84606-3041"
+Apt 23
+Provo, Utah 84606-3042"
 8 May,"Ray, Sara Angel",21,8658050535,"628 E 420 N
 Provo, Utah 84606-3312"
 10 May,"Hufford, Ethan",22,913-405-0710,"240 N 500 E
@@ -213,7 +175,7 @@ Provo, Utah 84606-3042"
 1 Jun,"Madsen, Olivia",20,801-302-9162,"274 N 500 E
 Apt 5
 Provo, Utah 84606-3043"
-2 Jun,"Padilla, Alexis",23,5105522767,"673 E 350 N
+2 Jun,"Padilla, Lexi",23,5105522767,"673 E 350 N
 Provo, Utah 84606-3362"
 3 Jun,"Merrill, Melinda",23,509-491-8466,"545 E 200 N
 Provo, Utah 84606-3247"
@@ -285,8 +247,6 @@ Provo, Utah 84606-3312"
 Provo, Utah 84606-3347"
 9 Aug,"Moreno, Matias",23,561-398-9204,"672 E 300 N
 Provo, Utah 84606-3306"
-11 Aug,"Gutierrez, Cristal Alondra",21,626-536-5182,"473 N 600 E
-Provo, Utah 84606-3320"
 11 Aug,"Langley, Clifton",23,602-434-3060,"274 N 500 E
 Apt 8
 Provo, Utah 84606-3044"
@@ -353,3 +313,39 @@ Provo, Utah 84606"
 Provo, Utah 84606-5500"
 31 Oct,"Williams, Alyssa Marie",26,2063078597,"545 E 200 N
 Provo, Utah 84606"
+1 Nov,"Allen, Tyler Durand",22,(812) 390-6530,"240 N 500 E
+Apt 21
+Provo, Utah 84606-3042"
+1 Nov,"Heywood, Benjamin",26,(210) 251-7330,"415 N 600 E
+Provo, Utah 84606-3320"
+2 Nov,"Anderson, Gavin",21,,"672 E 300 N
+Provo, Utah 84606-3306"
+2 Nov,"Turin Ruiz, Moises Vincenzo",27,3853924394,"274 N 500 E
+Apt 9
+Provo, Utah 84606-3044"
+3 Nov,"Quindo, Michelle",23,870-329-7453,"673 E 350 N
+Provo, Utah 84606-3362"
+4 Nov,"Perrault, Seth",24,559-312-4380,"310 N 600 E
+Provo, Utah 84606-3319"
+9 Nov,"Wood, Treygun",22,8012004109,"274 N 500 E
+Apt 7
+Provo, Utah 84606-3044"
+10 Nov,"Iverson, Porter",22,,"240 N 500 E
+Apt 15
+Provo, Utah 84606-3041"
+12 Nov,"Mackay, Parker",24,720-468-7275,"310 N 600 E
+Provo, Utah 84606-3319"
+15 Nov,"Hendrickson, Maddie",22,430-280-5310,"673 E 350 N
+Provo, Utah 84606-3362"
+15 Nov,"Ruano, Markela",23,385-482-4193,"141 N 600 E
+Provo, Utah 84606-3375"
+20 Nov,"Chuter, Emma",21,435-414-3241,"673 E 350 N
+Provo, Utah 84606-3362"
+22 Nov,"Carlyle, Caleb",21,253-651-8581,"240 N 500 E
+Apt 21
+Provo, Utah 84606-3042"
+23 Nov,"Myers, Jordan",24,(208) 509-6632,"240 N 500 E
+Apt 17
+Provo, Utah 84606-3041"
+26 Nov,"Owen, Redd",22,801-550-7854,"293 N 600 E
+Provo, Utah 84606-3350"
