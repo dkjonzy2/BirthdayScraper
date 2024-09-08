@@ -1,351 +1,544 @@
 Date,Name,Age,Phone,Address
-3 Dec,"Tiyari, Mark",23,208-616-0303,"290 N 600 E
-Provo, Utah 84606-3372"
-8 Dec,"Clark, Carson",21,,"274 N 500 E
-Apt 11
-Provo, Utah 84606-3044"
-9 Dec,"Sanon, Johana",28,(385)447-3270,"240 N 500 E
-Apt 14
-Provo, Utah 84606-3041"
-10 Dec,"Riley, Hannah",20,801-671-7484,"547 E 200 N
-Provo, Utah 84606-3247"
-17 Dec,"Flores Henriquez, Omar Alberto",23,865-719-7462,"274 N 500 E
-Apt 22
-Provo, Utah 84606-3068"
-21 Dec,"Pulsipher, Noah",24,801 897-3276,"593 E 100 N
-Provo, Utah 84606-3376"
-21 Dec,"Sheffield, Joe",23,605-939-5337,"414 N 600 E
-Provo, Utah 84606-3347"
-28 Dec,"Bjorkman, Savannah",22,612-201-9953,"628 E 420 N
-Provo, Utah 84606-3312"
-30 Dec,"Anderson, Hannah",23,951-818-3426,"628 E 420 N
-Provo, Utah 84606-3312"
-5 Jan,"Arredondo, Ayden Vincent",23,610-662-9449,"240 N 500 E
-Apt 17
-Provo, Utah 84606-3041"
-5 Jan,"Hamblin, Jake",24,210-838-4057,"672 E 300 N
-Provo, Utah 84606-3306"
-5 Jan,"Page, Marin",21,(385) 233-7483,"240 N 500 E
-Apt 19
-Provo, Utah 84606-3042"
-6 Jan,"Ball, Anna",19,5408364755,"240 N 500 E
-Apt 14
-Provo, Utah 84606-3041"
-7 Jan,"Weber, Kati",21,801-874-8757,"240 N 500 E
-Apt 16
-Provo, Utah 84606-3041"
-12 Jan,"Metcalf, Quintin Robert",22,832-349-6009,"310 N 600 E
-Provo, Utah 84606-3319"
-22 Jan,"Frazee, Melissa",21,3158776699,"240 N 500 E
-Apt 16
-Provo, Utah 84606-3041"
-24 Jan,"McDonald, Sean",22,801-473-6160,"310 N 600 E
-Provo, Utah 84606-3319"
-26 Jan,"Smith, JJ",21,,"2202 Dakota Ave
-Provo, Utah 84606-5500"
-2 Feb,"Moore, Max",25,(208) 403-4865,"674 E 300 N
-Provo, Utah 84606-3306"
-5 Feb,"Neal, Trey",19,5027068797,"274 N 500 E
-Apt 3
-Provo, Utah 84606-3043"
-6 Feb,"Thompson, Keon",21,8015400082,"274 N 500 E
-Apt 7
-Provo, Utah 84606-3044"
-7 Feb,"Johnson, Payton",20,682-816-5091,"537 E 200 N
-Provo, Utah 84606-3247"
-8 Feb,"Riehle, Braden",24,385-233-1566,"623 E 350 N
-American Fork, Utah 84003"
-9 Feb,"Tucker, Gage",18,(916) 897-0635,"349 N 700 E
-Provo, Utah 84606-3324"
-11 Feb,"Dansie, Halle",20,(801) 554-9700,"659 E 350 N
-Provo, Utah 84606-3362"
-12 Feb,"Adams, Braden",20,(970) 397-9037,"240 N 500 E
-Apt 22
-Provo, Utah 84606-3042"
-14 Feb,"Gomez, Arturo",28,+1 702-931-8077,"455 E 400 N
-Provo, Utah 84606-3054"
-16 Feb,"Plowman, Noah Jack",24,801-599-0233,"674 E 300 N
-Provo, Utah 84606-3306"
-18 Feb,"Romrell, Cody",19,801-850-4246,"240 N 500 E
-Apt 15
-Provo, Utah 84606-3041"
-23 Feb,"Rawlins, Claire Elizabeth",21,702-875-6906,"545 E 200 N
-Provo, Utah 84606-3247"
-1 Mar,"Harmon, Dane",22,801-317-9104,"623 E 350 N
-Provo, Utah 84606-3362"
-2 Mar,"Crockett, Brayden",20,801-882-5216,"274 N 500 E
-Apt 11
-Provo, Utah 84606-3044"
-2 Mar,"McConkie, Kelson Andrew",21,3852899510,"240 N 500 E
-Apt 15
-Provo, Utah 84606-3041"
-2 Mar,"Stauffer, Jon",22,801-512-3104,"386 N 600 E
-Provo, Utah 84606-3337"
-3 Mar,"Berry, Malachi",26,623-687-6905,"672 E 300 N
-Provo, Utah 84606-3306"
-5 Mar,"Ruano, Eleni Bella",21,(385)209-5994,"141 N 600 E
-Provo, Utah 84606-3375"
-6 Mar,"Ward, Adelyne",21,3852217089,"628 E 420 N
-Provo, Utah 84606-3312"
-7 Mar,"Hiatt, Paige Mckenzie",21,,"547 E 200 N
-Provo, Utah 84606-3247"
-9 Mar,"Watkin, Cade Taylor",21,602-989-9336,"240 N 500 E
-Apt 24
-Provo, Utah 84606-3042"
-10 Mar,"Brown, Colten",26,801-362-9475,"274 N 500 E
-Apt 2
-Provo, Utah 84606-3043"
-15 Mar,"Devereaux, Hannah",19,8324995742,"274 N 500 E
-Apt 5
-Provo, Utah 84606-3043"
-15 Mar,"Ellett, Alexis Grace",19,(512) 893-1074,"240 N 500 E
-Apt 14
-Provo, Utah 84606-3041"
-16 Mar,"Flake, Kendall",23,(385) 482-8733,"386 N 600 E
-Provo, Utah 84606-3337"
-21 Mar,"Hughes, Hallie",20,480-444-9661,"659 E 350 N
-Provo, Utah 84606-3362"
-22 Mar,"Mason, Noelani",22,480-769-2672,"240 N 500 E
-Apt 23
-Provo, Utah 84606-3042"
-23 Mar,"Cook, Jack",21,8019130143,"293 N 600 E
-Provo, Utah 84606-3350"
-23 Mar,"Marston, Emma Ann",21,801-888-3647,"673 E 350 N
-Provo, Utah 84606-3362"
-24 Mar,"Longman, Haley",21,702-301-9985,"673 E 350 N
-Provo, Utah 84606-3362"
-25 Mar,"Magleby, Jenna Yan Si",21,703-677-7639,"673 E 350 N
-Provo, Utah 84606-3362"
-30 Mar,"Skouson, Ryan",22,937-831-1791,"414 N 600 E
-Provo, Utah 84606-3347"
-3 Apr,"Montenegro, Ammon",24,702-373-3836,"623 E 350 N
-Provo, Utah 84606-3362"
-8 Apr,"Fielding, Avary",22,5125225224,"240 N 500 E
-Apt 16
-Provo, Utah 84606-3041"
-16 Apr,"Hamilton, Cameron",22,385-722-1713,"386 N 600 E
-Provo, Utah 84606-3337"
-20 Apr,"Riley, Megan",22,8016916887,"547 E 200 N
-Provo, Utah 84606-3247"
-20 Apr,"Robinson, Chance",24,720-862-4985,"621 E 350 N
-Provo, Utah 84606-3362"
-21 Apr,"Brinkerhoff, Rylee",21,801-360 7465,"290 N 600 E
-Apt 2
-Provo, Utah 84606-3372"
-21 Apr,"Kelly, Jack",21,(480)544-5119,"293 N 600 E
-Provo, Utah 84606-3350"
-3 May,"Myers, Parker",21,+19868957358,"240 N 500 E
-Apt 17
-Provo, Utah 84606-3041"
-4 May,"Rasmussen, Madison",21,801-6485121,"659 E 350 N
-Provo, Utah 84606-3362"
-5 May,"Wakefield, Hannah",21,206-319-3753,"240 N 500 E
-Apt 19
-Provo, Utah 84606-3042"
-7 May,"Hamilton, Zipporah",21,(412) 291-0312,"240 N 500 E
-Apt 23
-Provo, Utah 84606-3042"
-8 May,"Ray, Sara Angel",21,8658050535,"628 E 420 N
-Provo, Utah 84606-3312"
-10 May,"Hufford, Ethan",22,913-405-0710,"240 N 500 E
-Apt 24
-Provo, Utah 84606-3042"
-13 May,"Gore, Sarah Elizabeth",21,2184915053,"258 N 500 E
-Provo, Utah 84606-3022"
-15 May,"Knowlton, Wyatt",25,801-663-1160,"292 N 500 E
-Provo, Utah 84606-3022"
-21 May,"Davenport, Hunter",21,971-337-9055,"240 N 500 E
-Apt 20
-Provo, Utah 84606-3042"
-21 May,"Gomez Paz, Santiago",23,408-609-1138,"672 E 300 N
-Provo, Utah 84606-3306"
-22 May,"Owen, Emily Samantha",23,8014102998,"240 N 500 E
-Apt 16
-Provo, Utah 84606-3041"
-23 May,"Schilling, Aiden",21,4083109860,"293 N 600 E
-Provo, Utah 84606-3350"
-25 May,"Benshoff, Liam",25,860-372-8733,"674 E 300 N
-Provo, Utah 84606-3306"
-29 May,"Holmes, Claire",20,435-315-6000,"214 N 600 E
-Apt 4
-Provo, Utah 84606-3342"
-30 May,"Percival, Isaac James",21,3174076489,"240 N 500 E
-Apt 22
-Provo, Utah 84606-3042"
-1 Jun,"Madsen, Olivia",20,801-302-9162,"274 N 500 E
-Apt 5
-Provo, Utah 84606-3043"
-2 Jun,"Padilla, Lexi",23,5105522767,"673 E 350 N
-Provo, Utah 84606-3362"
-3 Jun,"Merrill, Melinda",23,509-491-8466,"545 E 200 N
-Provo, Utah 84606-3247"
-7 Jun,"Emig, Carolina",18,801-717-5322,"214 N 600 E
-Apt 4
-Provo, Utah 84606-3342"
-14 Jun,"Sampson, Eli",22,(703) 969-6581,"414 N 600 E
-Provo, Utah 84606-3347"
-15 Jun,"Philpot, Nicholas",24,623-764-3711,"314 N 600 E
-Provo, Utah 84606-3319"
-16 Jun,"Belnap, Emma",23,480-696-9747,"258 N 500 E
-Provo, Utah 84606-3022"
-16 Jun,"Myler, Jason",25,2083100029,"674 E 300 N
-Provo, Utah 84606-3306"
-22 Jun,"Pearson, Starrla",23,5098343374,"240 N 500 E
-Apt 23
-Provo, Utah 84606-3042"
-23 Jun,"McOmber, Braden",23,2086008249,"621 E 350 N
-Provo, Utah 84606-3362"
-25 Jun,"Hofheins, Joseph",22,801-787-2609,"274 N 500 E
-Apt 7
-Provo, Utah 84606-3044"
-26 Jun,"Favero, Lauren",21,801-404-4918,"545 E 200 N
-Provo, Utah 84606"
-28 Jun,"Lindquist, Luke",22,8017595830,"293 N 600 E
-Provo, Utah 84606-3350"
-29 Jun,"Smith, DeDe",44,8013629605,"2202 Dakota Ave
-Provo, Utah 84606-5500"
-1 Jul,"Brinkerhoff, Madeline",20,2812023818,"537 E 200 N
-Provo, Utah 84606-3247"
-3 Jul,"Pickett, Andrew Dee",22,1 208-360-5648,"621 E 350 N
-Provo, Utah 84606-3362"
-15 Jul,"Seely, Peter",24,425-906-9124,"274 N 500 E
-Apt 2
-Provo, Utah 84606-3043"
-19 Jul,"Price, Carson Jared",21,801 686 0996,"240 N 500 E
-Apt 22
-Provo, Utah 84606-3042"
-23 Jul,"Beeson, Pearl",21,9256236751,"673 E 350 N
-Provo, Utah 84606-3362"
-23 Jul,"Johnson, Tali",24,8013197608,"240 N 500 E
-Apt 23
-Provo, Utah 84606-3042"
-29 Jul,"Grover, Gracie",22,801-380-0904,"547 E 200 N
-Provo, Utah 84606-3247"
-30 Jul,"Allen, Aspen Azelene",21,3347013122,"545 E 200 N
-Provo, Utah 84606-3247"
-1 Aug,"Patchett, Gianna",26,702-918-5133,"535 E 200 N
-Provo, Utah 84606-3247"
-3 Aug,"Alley, Juliana",21,630-946-3315,"240 N 500 E
-Apt 18
-Provo, Utah 84606-3041"
-3 Aug,"Louthan, Lance",22,435-671-7263,"240 N 500 E
-Apt 21
-Provo, Utah 84606-3042"
-4 Aug,"Losee, Blake",23,385-535-7307,"274 N 500 E
-Apt 6
-Provo, Utah 84606-3043"
-4 Aug,"Mumford, Goldie Brett",21,2089631562,"628 E 420 N
-Provo, Utah 84606-3312"
-4 Aug,"Prior, Cannan",25,435-252-8356,"672 E 300 N
-Provo, Utah 84606-3306"
-5 Aug,"Evans, Ellie",21,805-252-2402,"274 N 500 E
-Apt 19
-Provo, Utah 84606-3068"
-7 Aug,"Luck, Landrie",21,303-304-3661,"628 E 420 N
-Provo, Utah 84606-3312"
-8 Aug,"Rosenberg, Tad Bladen",22,7196758565,"414 N 600 E
-Provo, Utah 84606-3347"
-9 Aug,"Moreno, Matias",23,561-398-9204,"672 E 300 N
-Provo, Utah 84606-3306"
-11 Aug,"Langley, Clifton",23,602-434-3060,"274 N 500 E
-Apt 8
-Provo, Utah 84606-3044"
-14 Aug,"Hawkins, Justin",25,19014954836,"591 E 100 N
-Provo, Utah 84606-3376"
-15 Aug,"Mildon, Carson Greg",19,2089939007,"310 E 600 N
-Provo, Utah 84606-1818"
-17 Aug,"Carpenter, Joshua",21,480-899-3627,"292 N 500 E
-Provo, Utah 84606-3022"
-21 Aug,"Beckstrand, Matt",21,8019717033,"293 N 600 E
-Provo, Utah 84606-3350"
-24 Aug,"Coon, Carson",22,8012477000,"274 N 500 E
-Apt 6
-Provo, Utah 84606-3043"
-31 Aug,"Chavez, Andres Doroteo",23,+1 (956) 388-0762,"274 N 500 E
-Apt 10
-Provo, Utah 84606-3044"
-2 Sep,"Griffiths, Avery",24,(801) 721-4375,"561 E 200 N
-Provo, Utah 84606-3247"
-6 Sep,"Egbert, Adam Scott",25,423-742-6016,"274 N 500 E
-Apt 8
-Provo, Utah 84606-3044"
-6 Sep,"Pitcher, Justin",23,(385) 384-3285,"290 N 600 E
-Provo, Utah 84606-3372"
-10 Sep,"Gubler, Alice Kathleen",21,509-863-4878,"240 N 500 E
-Apt 19
-Provo, Utah 84606-3042"
-11 Sep,"Scott, Isaiah",23,208-569-5713,"240 N 500 E
-Apt 20
-Provo, Utah 84606-3042"
-18 Sep,"Lawrence, Sabrina",19,(385) 230-7753,"156 N 500 E
-Provo, Utah 84606-3218"
-19 Sep,"Smith, Adelaide",21,801-375-0278,"110 N 500 E
-Provo, Utah 84606-3218"
-22 Sep,"Jones, Danny",24,(385) 286-9426,"674 E 300 N
-Provo, Utah 84606-3306"
-23 Sep,"Montierth, Megan",25,480-532-0470,"561 E 200 N
-Provo, Utah 84606-3247"
-23 Sep,"Price, Joshua",24,469-525-8924,"240 N 500 E
-Apt 20
-Provo, Utah 84606-3042"
-26 Sep,"Murphy, Joseph",18,904-806-6315,"240 N 500 E
-Apt 24
-Provo, Utah 84606-3042"
-27 Sep,"Pierson, Madelyn Adele",23,(951) 323-3283,"673 E 350 N
-Provo, Utah 84606-3362"
-2 Oct,"Tucker, Garrett",24,(916) 642-2176,"349 N 700 E
-Provo, Utah 84606-3324"
-3 Oct,"Tower, Seth",22,(360) 908-1257,"240 N 500 E
-Apt 21
-Provo, Utah 84606-3042"
-5 Oct,"Bitter, Adam",24,541-745-9758,"274 N 500 E
-Apt 3
-Provo, Utah 84606-3043"
-9 Oct,"Roberts, Devyn",23,971-901-6831,"535 E 200 N
-Provo, Utah 84606-3247"
-12 Oct,"Nielsen, Erin",22,385-312-3916,"561 E 200 N
-Provo, Utah 84606-3247"
-17 Oct,"Likes, Zerin",25,404-431-1407,"258 N 500 E
-Provo, Utah 84606-3022"
-20 Oct,"Johnson, Hallie Laurel",20,541-659-0038,"545 E 200 N
-Provo, Utah 84606"
-20 Oct,"Smith, Joey",47,(801) 362-7128,"2202 Dakota Ave
-Provo, Utah 84606-5500"
-31 Oct,"Williams, Alyssa Marie",26,2063078597,"545 E 200 N
-Provo, Utah 84606"
-1 Nov,"Allen, Tyler Durand",22,(812) 390-6530,"240 N 500 E
-Apt 21
-Provo, Utah 84606-3042"
-1 Nov,"Heywood, Benjamin",26,(210) 251-7330,"415 N 600 E
-Provo, Utah 84606-3320"
-2 Nov,"Anderson, Gavin",21,,"672 E 300 N
-Provo, Utah 84606-3306"
-2 Nov,"Turin Ruiz, Moises Vincenzo",27,3853924394,"274 N 500 E
-Apt 9
-Provo, Utah 84606-3044"
-3 Nov,"Quindo, Michelle",23,870-329-7453,"673 E 350 N
-Provo, Utah 84606-3362"
-4 Nov,"Perrault, Seth",24,559-312-4380,"310 N 600 E
-Provo, Utah 84606-3319"
-9 Nov,"Wood, Treygun",22,8012004109,"274 N 500 E
-Apt 7
-Provo, Utah 84606-3044"
-10 Nov,"Iverson, Porter",22,,"240 N 500 E
-Apt 15
-Provo, Utah 84606-3041"
-12 Nov,"Mackay, Parker",24,720-468-7275,"310 N 600 E
-Provo, Utah 84606-3319"
-15 Nov,"Hendrickson, Maddie",22,430-280-5310,"673 E 350 N
-Provo, Utah 84606-3362"
-15 Nov,"Ruano, Markela",23,385-482-4193,"141 N 600 E
-Provo, Utah 84606-3375"
-20 Nov,"Chuter, Emma",21,435-414-3241,"673 E 350 N
-Provo, Utah 84606-3362"
-22 Nov,"Carlyle, Caleb",21,253-651-8581,"240 N 500 E
-Apt 21
-Provo, Utah 84606-3042"
-23 Nov,"Myers, Jordan",24,(208) 509-6632,"240 N 500 E
-Apt 17
-Provo, Utah 84606-3041"
-26 Nov,"Owen, Redd",22,801-550-7854,"293 N 600 E
-Provo, Utah 84606-3350"
+1 Sep,"Checketts, Brandon",25,801-505-2417,"104 W 1230 N
+Apt 319
+Provo, Utah 84604-2583"
+1 Sep,"Hovi, Brandon John Allan",24,,"108 W Cougar Blvd
+Apt 220
+Provo, Utah 84604-2581"
+4 Sep,"Almeida, Layna",21,385-243-4699,"142 W 1230 N
+Apt 230
+Provo, Utah 84604-6911"
+5 Sep,"Beckstead, Ethan",24,801-850-3280,"112 W 1230 N
+Apt 304
+Provo, Utah 84604-2565"
+5 Sep,"Sundberg, Viktoria A",22,5599060972,"31 W 1450 N
+Apt 41
+Provo, Utah 84604-2690"
+8 Sep,"Bills, Tyson",23,801-906-9395,"104 W 1230 N
+Apt 235
+Provo, Utah 84604-2583"
+12 Sep,"Kellis, Creighton",22,385-313-7102,"142 W 1230 N
+Apt 331
+Provo, Utah 84604-6916"
+15 Sep,"Anderson, Jared Robert",24,408-807-0057,"104 W 1230 N
+Apt 319
+Provo, Utah 84604-2583"
+17 Sep,"Gillich, Samantha",22,,"112 W 1230 N
+Apt 103
+Provo, Utah 84604-2563"
+17 Sep,"Parker, Kelsey Calyx",25,2398414052,"112 W 1230 N
+Apt 313
+Provo, Utah 84604-2566"
+20 Sep,"Curtis, Sam",23,931-539-3201,"55 W 1450 N
+Apt 156
+Provo, Utah 84604-2677"
+22 Sep,"Jones, Danny",25,(385) 286-9426,"146 W 1230 N
+Apt 322
+Provo, Utah 84604-2567"
+24 Sep,"Sudweeks, Dillon",23,516-434-1968,"98 W 1230 N
+Apt 225
+Provo, Utah 84604-2589"
+25 Sep,"Spotten, Jaden",24,360-900-6038,"146 W 1230 N
+Apt 236
+Provo, Utah 84604-2574"
+27 Sep,"Gim, Sujin",28,385-221-2164,"142 W 1230 N
+Apt 329
+Provo, Utah 84604-6916"
+30 Sep,"Field, Kailey",21,+18325882819,"112 W 1230 N
+Apt 106
+Provo, Utah 84604-2563"
+2 Oct,"Garner, Dawson",22,702-592-6866,"104 W Cougar Blvd
+Apt 121
+Provo, Utah 84604-2585"
+3 Oct,"Rex, Robert",28,801-404-2340,"146 W 1230 N
+Apt 322
+Provo, Utah 84604-2567"
+3 Oct,"Vierra, Leilani",23,808-940-5207,"142 W Cougar Blvd
+Apt 232
+Provo, Utah 84604-6914"
+5 Oct,"Dewald, Anna",23,,"112 W 1230 N
+Apt 309
+Provo, Utah 84604-2566"
+6 Oct,"Fonnesbeck, Soren William",25,281-623-7590,"98 W Cougar Blvd
+Apt 228
+Provo, Utah 84604-2589"
+6 Oct,"Ryu, Miri",21,385-539-4004,"142 W 1230 N
+Apt 332
+Provo, Utah 84604-6916"
+15 Oct,"Lee, James",26,801-709-8940,"112 W 1230 N
+Apt 308
+Provo, Utah 84604-2565"
+19 Oct,"House, Christian",29,503-528-4291,"104 W 1230 N
+Apt 123
+Provo, Utah 84604-2585"
+19 Oct,"Hovi, Kassidy",20,,"108 W Cougar Blvd
+Apt 220
+Provo, Utah 84604-2581"
+19 Oct,"Hovi, Matheson",22,815-236-4880,"108 W Cougar Blvd
+Apt 220
+Provo, Utah 84604-2581"
+19 Oct,"Liao, Alex",27,385-236-6658,"104 W 1230 N
+Apt 226
+Provo, Utah 84604-2583"
+21 Oct,"Christensen, Daniel",21,612-910-6785,"104 W 1230 N
+Apt 224
+Provo, Utah 84604-2586"
+22 Oct,"Shen, Hanshuo",20,385-444-8570,"104 W Cougar Blvd
+Apt 0
+Provo, Utah 84604-2583"
+23 Oct,"Finell, Vivian",22,+15129155081,"112 W 1230 N
+Apt 201
+Provo, Utah 84604-2564"
+28 Oct,"Bahr, Julia Eve",24,904-480-5313,"112 W 1230 N
+Apt 314
+Provo, Utah 84604-2566"
+4 Nov,"Sivila, Adrian Rafael",26,301-646-4230,"104 W 1230 N
+Apt 322
+Provo, Utah 84604-2587"
+7 Nov,"Whalen, Kate",24,509-539-7789,"112 W Cougar Blvd
+Apt 309
+Provo, Utah 84604-2566"
+10 Nov,"Adams, Peter",24,801-919-5658,"112 W 1230 N
+Apt 0
+Provo, Utah 84604-2562"
+10 Nov,"Huang, Hao Xiang",23,385-404-9002,"146 W 1230 N
+Apt 226
+Provo, Utah 84604-2567"
+10 Nov,"Ward, Ella",20,801-768-3220,"112 W 1230 N
+Apt 310
+Provo, Utah 84604-2566"
+11 Nov,"Tuiasoa, Kassandra",19,,"98 W 1230 N
+Apt 325
+Provo, Utah 84604-2590"
+15 Nov,"Beggs, Britton Philip",23,316-708-6758,"98 W 1230 N
+Provo, Utah 84604-2580"
+16 Nov,"Rios Neyra, Alyce Karina",23,801-898-9075,"142 W Cougar Blvd
+Apt 132
+Provo, Utah 84604-6910"
+18 Nov,"Palmer, K J",24,+19282291385,"142 W 1230 N
+Apt 329
+Provo, Utah 84604-6916"
+19 Nov,"Baxter, Aaron",30,801-735-5094,"146 W 1230 N
+Apt 234
+Provo, Utah 84604-2574"
+19 Nov,"Mansfield, Lyndsie",22,+16617136631,"98 W 1230 N
+Apt 326
+Provo, Utah 84604-2590"
+20 Nov,"Garner, Maria",23,+14355748924,"112 W 1230 N
+Apt 201
+Provo, Utah 84604-2564"
+24 Nov,"Martin, Laura",21,+17023736517,"142 W 1230 N
+Apt 332
+Provo, Utah 84604-6916"
+30 Nov,"Lee, Jeanna Haejin",26,385-418-6711,"1994 N 700 W
+Provo, Utah 84604-1425"
+1 Dec,"Wu, Keona Song-Ning",24,510-283-8828,"112 W 1230 N
+Apt 201
+Provo, Utah 84604-2564"
+3 Dec,"Layton, Taitum Jo",20,210-488-5666,"108 W 1230 N
+Apt 319
+Provo, Utah 84604-2582"
+7 Dec,"Isgett, Laurie Nicole",20,,"98 W 1230 N
+Apt 328
+Provo, Utah 84604-2590"
+9 Dec,"Shinsato, KennaLei",26,801-900-1041,"112 W 1230 N
+Apt 205
+Provo, Utah 84604-2564"
+10 Dec,"Steed, Cameron",28,512-608-5377,"104 W 1230 N
+Apt 224
+Provo, Utah 84604-2586"
+11 Dec,"Creamer, Blakely",23,858-519-7234,"112 W Cougar Blvd
+Apt 104
+Provo, Utah 84604-2563"
+15 Dec,"Barlow, Scott",53,(801) 400-2506,"814 Heather Rd
+Orem, Utah 84097-2376"
+16 Dec,"Brundage, Harry",22,(805) 782-9526,"146 W 1230 N
+Apt 322
+Provo, Utah 84604-2567"
+17 Dec,"Nielson, Manda",25,801-960-0706,"675 N 300 E
+Provo, Utah 84606-1863"
+17 Dec,"Whiting, Adalyn",22,801-404-1694,"142 W 1230 N
+Apt 203
+Provo, Utah 84604-2594"
+18 Dec,"An, Hyekyeong",24,801-854-2087,"112 W 1230 N
+Apt 313
+Provo, Utah 84604-2566"
+20 Dec,"Alvarez, Daniela Arcangel",24,480-208-4502,"98 W 1230 N
+Apt 128
+Provo, Utah 84604-2588"
+21 Dec,"Fawcett, Stan",24,801-361-8276,"112 W 1230 N
+Apt 101
+Provo, Utah 84604-2563"
+21 Dec,"Griffin, Katie",23,435-351-9345,"112 W 1230 N
+Apt 103
+Provo, Utah 84604-2563"
+21 Dec,"Sam, Lauren",25,801-433-8914,"98 W 1230 N
+Apt 328
+Provo, Utah 84604-2590"
+28 Dec,"Kenney, Mason",25,480-320-0000,"104 W 1230 N
+Apt 222
+Provo, Utah 84604-2586"
+1 Jan,"Steflik, Saniya",20,801-691-4144,"912 W 1200 S
+Provo, Utah 84601-6509"
+4 Jan,"Chan, Venus",21,385-208-3425,"104 W 1230 N
+Apt 104
+Provo, Utah 84604-2583"
+4 Jan,"Erickson, Sophia",22,503-686-5237,"112 W Cougar Blvd
+Apt 108
+Provo, Utah 84604-2563"
+11 Jan,"Fang, Yu Ning",28,360-513-8152,"112 W 1230 N
+Apt 206
+Provo, Utah 84604-2564"
+16 Jan,"Collyer, Lauren",23,425-301-2219,"112 W 1230 N
+Apt 106
+Provo, Utah 84604-2563"
+16 Jan,"Lee, Bella",30,801-234-9006,"108 W 1230 N
+Apt 217
+Provo, Utah 84604-2581"
+18 Jan,"Truman, Blayne Parker",21,702-817-4331,"104 W Cougar Blvd
+Apt 121
+Provo, Utah 84604-2585"
+18 Jan,"Yarbrough, Ainsley",23,512-783-5266,"591 N 200 E
+Apt 102
+Provo, Utah 84606-7041"
+18 Jan,"Yu, Hao",31,,"104 W 1230 N
+Apt 223
+Provo, Utah 84604-2586"
+20 Jan,"Moore, Alexis",24,805-468-9505,"142 W 1230 N
+Apt 230
+Provo, Utah 84604-6911"
+23 Jan,"Vetter, Dallin",25,757-292-7297,"104 W Cougar Blvd
+Apt 126
+Provo, Utah 84604-2583"
+27 Jan,"Malmberg, Adam",26,469-734-2281,"108 W 1230 N
+Apt 218
+Provo, Utah 84604-2581"
+28 Jan,"Lindman, Mckayla",23,5029392499,"98 W 1230 N
+Apt 328
+Provo, Utah 84604-2590"
+29 Jan,"Springer, Gabriel",20,682-209-8881,"112 W Cougar Blvd
+Apt 307
+Provo, Utah 84604-2565"
+29 Jan,"Warner, Hannah",22,208-831-0206,"112 W Cougar Blvd
+Apt 305
+Provo, Utah 84604-2565"
+3 Feb,"Gilmore, Sarissa Anne",23,469-610-8321,"142 W 1230 N
+Apt 229
+Provo, Utah 84604-6911"
+3 Feb,"Peart, Spencer",24,949-994-1060,"146 W 1230 N
+Apt 334
+Provo, Utah 84604-2577"
+4 Feb,"Bulich, Rivers Marie",23,605-415-0574,"142 W 1230 N
+Apt 229
+Provo, Utah 84604-6911"
+5 Feb,"Kelly, Bryn",24,385-866-4518,"146 W 1230 N
+Apt 236
+Provo, Utah 84604-2574"
+6 Feb,"De Peralta, Leziah",24,385-392-5502,"112 W 1230 N
+Apt 105
+Provo, Utah 84604-2563"
+6 Feb,"McCoy, Cannon",26,702-755-5357,"104 W 1230 N
+Apt 221
+Provo, Utah 84604-2586"
+6 Feb,"Oliver, Brooklynne",24,217-512-9075,"104 W 1230 N
+Apt 128
+Provo, Utah 84604-2583"
+9 Feb,"Lee, Dean",26,+13854723515,"112 W 1230 N
+Apt 308
+Provo, Utah 84604-2565"
+11 Feb,"Johnson, Elizabeth",19,8015581172,"108 W 1230 N
+Apt 219
+Provo, Utah 84604-2581"
+21 Feb,"Riley, Emily",24,+13852281511,"108 W 1230 N
+Apt 120
+Provo, Utah 84604-2579"
+22 Feb,"Bosuo, Nina Oti",25,917-251-4999,"98 W 1230 N
+Apt 128
+Provo, Utah 84604-2588"
+23 Feb,"Wakefield, Preston Scott",23,720-525-1284,"98 W 1230 N
+Apt 225
+Provo, Utah 84604-2589"
+25 Feb,"Kim, Jinook",26,385-221-2259,"146 W 1230 N
+Apt 336
+Provo, Utah 84604-2577"
+27 Feb,"Fernsten, Natalie",22,925-665-9642,"112 W 1230 N
+Apt 314
+Provo, Utah 84604-2566"
+28 Feb,"Thompson, Avery Celeste",23,262-212-0478,"146 W 1230 N
+Apt 136
+Provo, Utah 84604-2568"
+29 Feb,"Lee, Young",24,469-996-2252,"142 W 1230 N
+Apt 130
+Provo, Utah 84604-6920"
+5 Mar,"Darby, Joshua David",24,901-468-7382,"104 W 1230 N
+Apt 222
+Provo, Utah 84604-2586"
+8 Mar,"Davis, Madilynn",18,+17029602346,"98 W 1230 N
+Apt 325
+Provo, Utah 84604-2590"
+9 Mar,"Longmore, Lindsay",29,801-793-6369,"31 W 1450 N
+Apt 27
+Provo, Utah 84604-2673"
+9 Mar,"Nebeker, Jesse",27,+16128002194,"108 W 1230 N
+Apt 218
+Provo, Utah 84604-2581"
+9 Mar,"Xia, Jared",23,925-914-7789,"142 W 1230 N
+Apt 130
+Provo, Utah 84604-6920"
+10 Mar,"Hoskisson, Todd",27,361-219-2862,"112 W 1230 N
+Apt 304
+Provo, Utah 84604-2565"
+11 Mar,"Chen, Henry",23,8019310139,"146 W 1230 N
+Apt 234
+Provo, Utah 84604-2574"
+11 Mar,"Dibble, George",23,615-992-7040,"112 W 1230 N
+Apt 101
+Provo, Utah 84604-2563"
+12 Mar,"Evans, Caitlyne",19,2109319985,"108 W 1230 N
+Apt 219
+Provo, Utah 84604-2581"
+12 Mar,"Frischknecht, Madisyn Ashley",23,385-207-6152,"98 W 1230 N
+Apt 328
+Provo, Utah 84604-2590"
+16 Mar,"Powers, Elizabeth",21,360-916-9177,"142 W Cougar Blvd
+Apt 132
+Provo, Utah 84604-6910"
+18 Mar,"Lee, Yong Hee",24,385-349-6789,"142 W 1230 N
+Apt 203
+Provo, Utah 84604-2594"
+20 Mar,"Manirajan, Navin",28,385-472-4728,"108 W 1230 N
+Apt 119
+Provo, Utah 84604-2579"
+23 Mar,"Ashdown, Celeste",24,406-670-3389,"98 W 1230 N
+Apt 128
+Provo, Utah 84604-2588"
+23 Mar,"Fowler, Tanner",26,219-841-2417,"104 W 1230 N
+Apt 117
+Provo, Utah 84604-2583"
+29 Mar,"Ramirez, Dominick",23,19512402357,"104 W Cougar Blvd
+Apt 321
+Provo, Utah 84604-2587"
+30 Mar,"Mitchell, Joshua Hazen",21,801-803-3329,"142 W 1230 N
+Apt 331
+Provo, Utah 84604-6916"
+1 Apr,"Steele, Emma",21,480-465-0396,"112 W 1230 N
+Apt 106
+Provo, Utah 84604-2563"
+2 Apr,"Johnson, Kaylee",23,505-980-4101,"104 W 1230 N
+Apt 318
+Provo, Utah 84604-2583"
+2 Apr,"Xia, Derek",20,925-914-1060,"142 W 1230 N
+Apt 130
+Provo, Utah 84604-6920"
+5 Apr,"Creer, Katherine",22,(509) 619-2320,"112 W 1230 N
+Apt 301
+Provo, Utah 84604-2565"
+6 Apr,"Lin, Iris",27,808-451-4825,"104 W Cougar Blvd
+Apt 301
+Provo, Utah 84604-2583"
+14 Apr,"Jones, Saxon",23,801-425-2633,"104 W 1230 N
+Apt 235
+Provo, Utah 84604-2583"
+14 Apr,"Rajput, Kabir",28,385-221-8365,"104 W Cougar Blvd
+Apt 122
+Provo, Utah 84604-2585"
+21 Apr,"Welsh, Bayley Jonathan",26,385-230-0864,"146 W 1230 N
+Apt 234
+Provo, Utah 84604-2574"
+22 Apr,"Heslop, Treagen",22,480-734-0178,"104 W 1230 N
+Apt 222
+Provo, Utah 84604-2586"
+24 Apr,"Smith, Zachary",22,971-713-9134,"98 W 1230 N
+Apt 125
+Provo, Utah 84604-2588"
+25 Apr,"Broadbent, Elayna McKell",24,307-709-6809,"108 W 1230 N
+Apt 318
+Provo, Utah 84604-2582"
+26 Apr,"Bowman, Kayla",23,303-589-8582,"112 W 1230 N
+Apt 314
+Provo, Utah 84604-2566"
+27 Apr,"Beckstead, Austin",22,8017094478,"104 W 1230 N
+Apt 227
+Provo, Utah 84604-2583"
+1 May,"Rossiter, Ainsley",22,801-660-7012,"112 W Cougar Blvd
+Apt 314
+Provo, Utah 84604-2566"
+2 May,"Bright, Tate",24,502-905-0017,"146 W 1230 N
+Apt 133
+Provo, Utah 84604-2568"
+3 May,"Bird, Carson",23,385-625-7977,"146 W 1230 N
+Apt 233
+Provo, Utah 84604-2574"
+3 May,"Haight, Mariah",23,210-846-6865,"104 W Cougar Blvd
+Apt 230
+Provo, Utah 84604-2583"
+4 May,"Ogaard, Rachel Ann",25,641-373-3438,"912 W 130 N
+Orem, Utah 84507"
+9 May,"Allen, Clara Margaret",21,541-670-8636,"112 W Cougar Blvd
+Apt 207
+Provo, Utah 84604-2564"
+9 May,"Schow, Lindsay",24,435-999-8028,"675 N 300 E
+Provo, Utah 84606-1863"
+10 May,"LaBarge, Alyssa",23,714-345-9585,"112 W 1230 N
+Apt 303
+Provo, Utah 84604-2565"
+11 May,"Nielsen, Paul",54,801-360-1172,"1734 N 710 E
+Orem, Utah 84097-7343"
+11 May,"Sampson, Daniel Parker",21,,"104 W 1230 N
+Apt 223
+Provo, Utah 84604-2586"
+14 May,"Bogden, Seager William",21,702-523-0639,"104 W Cougar Blvd
+Apt 121
+Provo, Utah 84604-2585"
+15 May,"Merrill, Riley",22,208-869-0676,"142 W 1230 N
+Apt 331
+Provo, Utah 84604-6916"
+16 May,"Fisher, Michael",21,208-403-5109,"1378 N Freedom Blvd
+Apt 236
+Provo, Utah 84604-2524"
+19 May,"McLaughlin, Holland",23,307-438-1905,"108 W 1230 N
+Apt 120
+Provo, Utah 84604-2579"
+21 May,"Brockbank, Lillie",22,3857660013,"142 W 1230 N
+Apt 329
+Provo, Utah 84604-6916"
+23 May,"Bang, Seung Hyun",28,385-384-3150,"98 W Cougar Blvd
+Apt 228
+Provo, Utah 84604-2589"
+25 May,"Henry, Samuel",24,801-690-5623,"104 W 1230 N
+Apt 335
+Provo, Utah 84604-2583"
+26 May,"Mangum, Samuel Jeremy",21,702-863-8415,"104 W 1230 N
+Apt 221
+Provo, Utah 84604-2586"
+28 May,"Gardner, Joshua",21,(801) 556-3354,"142 W 1230 N
+Apt 331
+Provo, Utah 84604-6916"
+30 May,"Porter, Nathan",21,5406427236,"104 W Cougar Blvd
+Provo, Utah 84604-2583"
+31 May,"Allen, Isaac Jay",23,541-670-4194,"104 W Cougar Blvd
+Apt 321
+Provo, Utah 84604-2587"
+31 May,"Fullmer, Cooper",28,(385) 250-9391,"104 W 1230 N
+Apt 221
+Provo, Utah 84604-2586"
+4 Jun,"Blackburn, Henry",24,385-899-7090,"104 W 1230 N
+Apt 221
+Provo, Utah 84604-2586"
+12 Jun,"Hughlett, Chandler",26,602-578-8722,"104 W Cougar Blvd
+Apt 327
+Provo, Utah 84604-2583"
+14 Jun,"Cahoon, Nathan Reynolds",23,509-205-2166,"104 W Cougar Blvd
+Apt 321
+Provo, Utah 84604-2587"
+14 Jun,"Jorgensen, Daija Lucyle",23,435-749-4589,"104 W 1230 N
+Apt 202
+Provo, Utah 84604-2583"
+15 Jun,"Jafek, Timothy",26,(858) 900-1978,"108 W 1230 N
+Apt 218
+Provo, Utah 84604-2581"
+18 Jun,"Anderson, Elaina",23,385-221-8562,"98 W 1230 N
+Apt 326
+Provo, Utah 84604-2590"
+22 Jun,"Gu, Jeong-A",28,385-219-9197,"108 W 1230 N
+Apt 217
+Provo, Utah 84604-2581"
+24 Jun,"Lee, Alana",19,385-210-0952,"112 W Cougar Blvd
+Apt 207
+Provo, Utah 84604-2564"
+25 Jun,"Park, Soo Kyung",29,208-757-3445,"112 W Cougar Blvd
+Apt 303
+Provo, Utah 84604-2565"
+25 Jun,"Towner, Isaac",26,720-989-9996,"334 W 200 N
+Apt 309
+Provo, Utah 84601-2726"
+26 Jun,"Naylor, Foxx Joseph",26,813-330-5556,"146 W 1230 N
+Apt 333
+Provo, Utah 84604-2577"
+1 Jul,"Hibbert, Mark",24,801-866-5887,"112 W 1230 N
+Apt 101
+Provo, Utah 84604-2563"
+2 Jul,"Tan, Miranda",26,510-789-8769,"142 W Cougar Blvd
+Apt 330
+Provo, Utah 84604-6916"
+3 Jul,"Christensen, Sydney Irene",21,+14802254132,"104 W 1230 N
+Apt 124
+Provo, Utah 84604-2585"
+7 Jul,"Adams, Nina",21,801-919-5657,"112 W 1230 N
+Apt 301
+Provo, Utah 84604-2565"
+8 Jul,"Branham, Ali",22,803-766-8825,"98 W 1230 N
+Apt 328
+Provo, Utah 84604-2590"
+8 Jul,"Grow, Dale",22,,"146 W 1230 N
+Apt 136
+Provo, Utah 84604-2568"
+9 Jul,"Day, Katie",22,907-388-5785,"98 W 1230 N
+Apt 326
+Provo, Utah 84604-2590"
+10 Jul,"Kreutzer, Eldon",25,951-746-2611,"104 W 1230 N
+Apt 117
+Provo, Utah 84604-2583"
+17 Jul,"Schmidt, Ethan",26,801-615-9496,"112 W 1230 N
+Apt 101
+Provo, Utah 84604-2563"
+23 Jul,"Bent, Nick",22,612-655-9364,"112 W Cougar Blvd
+Apt 305
+Provo, Utah 84604-2565"
+23 Jul,"Kruger, Naomi Denise",22,512-820-1505,"112 W 1230 N
+Apt 201
+Provo, Utah 84604-2564"
+23 Jul,"Willis, Emma",21,385-208-2062,"112 W 1230 N
+Apt 105
+Provo, Utah 84604-2563"
+26 Jul,"Peterson, Spencer",23,480-548-2812,"112 W 1230 N
+Apt 306
+Provo, Utah 84604-2565"
+30 Jul,"Swensen, Macie Anne",23,571-332-3330,"108 W 1230 N
+Apt 219
+Provo, Utah 84604-2581"
+5 Aug,"Mitchell, Caleb",20,404-229-2591,"146 W 1230 N
+Apt 134
+Provo, Utah 84604-2568"
+6 Aug,"Growald, Claire",23,817-739-8555,"142 W 1230 N
+Apt 129
+Provo, Utah 84604-6920"
+6 Aug,"Herman, Tyler Samuel Leonard",23,985-334-6362,"112 W 1230 N
+Apt 101
+Provo, Utah 84604-2563"
+8 Aug,"Gee, Robert",24,817-987-9871,"98 W 1230 N
+Apt 127
+Provo, Utah 84604-2588"
+8 Aug,"Weng, Chloe",21,385-384-9610,"108 W 1230 N
+Apt 320
+Provo, Utah 84604-2582"
+9 Aug,"Hill, Garrett Allen",22,602-920-5637,"104 W 1230 N
+Apt 222
+Provo, Utah 84604-2586"
+9 Aug,"Hornberger, Hannah",22,479-301-6280,"108 W 1230 N
+Apt 319
+Provo, Utah 84604-2582"
+11 Aug,"Childs, Seth",25,435-632-5427,"98 W Cougar Blvd
+Apt 326
+Provo, Utah 84604-2590"
+13 Aug,"Dutson, Dalan Trent",26,435-406-6083,"98 W 1230 N
+Apt 225
+Provo, Utah 84604-2589"
+17 Aug,"Stoltz, Mason Allen",25,9522191645,"112 W 1230 N
+Apt 204
+Provo, Utah 84604-2564"
+18 Aug,"Pun, Julia",22,971-533-8345,"142 W 1230 N
+Apt 231
+Provo, Utah 84604-6914"
+19 Aug,"Peterson, McKenzie",21,480-579-8111,"112 W 1230 N
+Apt 306
+Provo, Utah 84604-2565"
+20 Aug,"Larson, Gabriel",25,509-212-6271,"98 W 1230 N
+Apt 325
+Provo, Utah 84604-2590"
+24 Aug,"Xanthos, Anthony",24,5034438251,"104 W 1230 N
+Apt 122
+Provo, Utah 84604-2585"
+25 Aug,"Hansen, Anna",19,503-726-6064,"108 W 1230 N
+Apt 319
+Provo, Utah 84604-2582"

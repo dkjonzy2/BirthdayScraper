@@ -58,26 +58,17 @@ print("Logged in")
 
 wait.until(EC.visibility_of_element_located((By.ID, "menuItem7")))
 print(driver.title)
-driver.get("https://lcr.churchofjesuschrist.org/report/birthday-list?lang=eng")
+driver.get("https://lcr.churchofjesuschrist.org/records/member-list?lang=eng")
 print(driver.title)
 
-# Locate the select element
-select_element = WebDriverWait(driver, 30).until(
-    EC.element_to_be_clickable((By.XPATH, "(//div[@class='sc-xne1im-0 kWhksG']//select[@class='sc-11vq36o-0 dvAIOs'])[3]"))
-)
-
-# Create a Select object
-select = Select(select_element)
-
-# Select an option by its value (e.g., to show 3 months)
-select.select_by_value('12')
-
 # Wait for the table to load
-wait.until(EC.visibility_of_element_located((By.CSS_SELECTOR, "tr.sc-zkgtp5-0.iooGpB.sc-bee01cd9-2.jbMyIm")))
+time.sleep(5)
 
 # Get all the rows
-rows = driver.find_elements(By.CSS_SELECTOR, "tr.sc-zkgtp5-0.iooGpB.sc-bee01cd9-2.jbMyIm")
+rows = driver.find_elements(By.CSS_SELECTOR, "#mainContent > div:nth-child(5) > table > tbody > tr")
+
 print("Found {} rows".format(len(rows)))
+
 # Create an empty list to hold the data
 data = []
 
@@ -87,19 +78,25 @@ for row in rows:
     cols = row.find_elements(By.TAG_NAME, "td")
     
     # Extract the text from each column
-    date = cols[0].text
     name = cols[1].text
-    age = cols[2].text
-    phone = cols[3].text
-    address = cols[4].text
+    gender = cols[3].text
+    age = cols[4].text
+    birthdate = cols[5].text
+    
+    # Extract the address, handling line breaks
+    address_html = cols[6].get_attribute('innerHTML')
+    address = address_html.replace('<br>', ', ').replace('\n', '').strip()
+    
+    phone = cols[7].text
+    email = cols[8].text
     
     # Append the data to the list
-    data.append([date, name, age, phone, address])
+    data.append([name, gender, age, birthdate, address, phone, email])
 
 # Create a DataFrame from the list
-df = pd.DataFrame(data, columns=["Date", "Name", "Age", "Phone", "Address"])
+df = pd.DataFrame(data, columns=["Name", "Gender", "Age", "Birthdate", "Address", "Phone", "Email"])
 
 # Export the DataFrame to a CSV file
-df.to_csv("birthdays.csv", index=False)
+df.to_csv("members.csv", index=False)
 print("Exported data to CSV file")
 print("Done")
